@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Sourabh!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhgrover)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sourabhgrover)
 
 
 <!--
