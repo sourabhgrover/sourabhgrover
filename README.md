@@ -3,6 +3,9 @@
 
  I'm Full Stack Developer 
 
+## ✍️ Latest Articles 
+- [Disable React Developer Tool Extension](https://medium.com/@sourabhgrover29/disable-react-developer-tool-extension-fda00435bcae)
+- [Best Practises I learned from SonarQube](https://medium.com/@sourabhgrover29/best-practise-i-learned-from-sonarqube-47a0bf2da638)
 
 
 <!--
