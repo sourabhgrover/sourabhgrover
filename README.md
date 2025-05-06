@@ -2,6 +2,7 @@
  <!-- ### <h1> Hello World 👋 </h1> -->
 
  I'm Full Stack Developer 
+ Learning Gen AI
 
 ## My Latest Blogs✍️  👇
 - [Disable React Developer Tool Extension](https://medium.com/@sourabhgrover29/disable-react-developer-tool-extension-fda00435bcae)
