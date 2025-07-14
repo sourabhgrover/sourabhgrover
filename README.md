@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  🚀 Full Stack JavaScript Developer | 🧠 Generative AI Enthusiast | 💻 Blogger <br/>
+  🚀 Full Stack Developer | 🧠 Generative AI Enthusiast | 💻 Blogger <br/>
 </p>
 
 ---
